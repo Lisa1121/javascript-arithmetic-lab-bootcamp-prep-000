@@ -11,6 +11,6 @@ function divide(a,b){
   return(a/b)
 }
 function inc(n){
-  n=679
+  n=717
   return(n++)
 }
